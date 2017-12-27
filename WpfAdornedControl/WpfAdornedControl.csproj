@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdornedControl.cs" />
+    <Compile Include="AdornedControlWithLoadingWait.cs" />
     <Compile Include="AdornerPlacement.cs" />
     <Compile Include="FrameworkElementAdorner.cs" />
     <Compile Include="WpfControls\Extensions\LoadingAdornerExtension.cs" />
