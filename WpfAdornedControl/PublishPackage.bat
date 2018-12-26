@@ -1,1 +1,0 @@
-nuget push WpfAdornedControl.PieroViano.1.0.0.2.nupkg oy2ejjkmnfvpna5ych5aqfiwzrzy7fxufjsigq5lylg7ki -Source https://api.nuget.org/v3/index.json
